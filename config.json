@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderrecrypt",
+        "uuid": 843350,
+        "checksum": "n62dyl"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
